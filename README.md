@@ -1,2 +1,2 @@
 # jupiter-lesson
-This is my jupiter repo
+This is my jupyter repo
